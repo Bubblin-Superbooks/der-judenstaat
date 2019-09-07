@@ -1,5 +1,5 @@
 {
-  "name": "Der Judenstaat",
+  "name": "The Jewish State",
   "type": "novel",
   "has_page_numbers": true,
   "mode": {
@@ -9,7 +9,7 @@
     "HEAD": "html"
   },
   "cover": {
-    "punchline": "",
+    "punchline": "Der Judenstaat",
     "toc": "",
     "author_detail": "",
     "colophon": "",
